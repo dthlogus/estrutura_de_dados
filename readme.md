@@ -4,7 +4,7 @@
 ## Descrição
 O único objetivo desse repositório e mostrar pequenos programas em C enquanto aprendo e me aprofundo nas questões de estrutura de dados, coisas como erros que não atrapalha a execução do código ou erros de digitação serão assumidas como opcionais que podem ser corrigidas no futuro.   
 
-O material utilizado para aprendizagem é o curso pelo YouTube no canal da UNIVESP com a playlist[Estrutura de dados](https://www.youtube.com/playlist?list=PLxI8Can9yAHf8k8LrUePyj0y3lLpigGcl), também estou usando de sites como stack overflow, stack exchange, e alguns outros menos conhecidos como o do Prof. [Paulo Feofiloff](https://www.ime.usp.br/~pf/algoritmos/index.html) para que o aprendizado seja completo.  
+O material utilizado para aprendizagem é o curso pelo YouTube no canal da UNIVESP com a playlist [Estrutura de dados](https://www.youtube.com/playlist?list=PLxI8Can9yAHf8k8LrUePyj0y3lLpigGcl), também estou usando de sites como stack overflow, stack exchange, e alguns outros menos conhecidos como o do Prof. [Paulo Feofiloff](https://www.ime.usp.br/~pf/algoritmos/index.html) para que o aprendizado seja completo.  
 
  Outra coisa que deve ser dita é que estou implementando mais do que os exercícios pedem, assim consigo ter uma compreensão melhor do que estou aprendendo sempre um pouco a mais do que o anterior, fique a vontade para fazer suas ideias fluírem também, não fique apenas no que o exercício pede.  
  
