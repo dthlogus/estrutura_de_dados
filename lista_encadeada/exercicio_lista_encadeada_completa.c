@@ -53,7 +53,42 @@ void verificadorOrdemCrescente(celula *c){
 	}
 }
 
+// Inserir celula a lista
+void inserir(int x, celula *c){
+	celula *nova;
+	nova = malloc (sizeof(celula));
+	nova->conteudo = x;
+	nova->prox = c->prox;
+	c->prox = nova;
+}
+
+// Remover celula da lista
+void removerCelulaLista(celula *c){
+	celula *lixo;
+	lixo = c->prox;
+	p->prox = lixo->prox;
+	free(lixo);
+}
+
+// Remover uma celula desejada da lista
+void busca_e_remove (int x, celula *c)
+{
+   celula *atual, *proximo;
+   atual = c;
+   proximo = c->prox;
+   while (proximo != NULL && proximo->conteudo != x) {
+      atual = proximo;
+      proximo = proximo->prox;
+   }
+   if (proximo != NULL) {
+      atual->prox = proximo->prox;
+      free (proximo);
+   }
+}
+
 int main(){
+	p = malloc (sizeof(celula));
+	p->prox = NULL;
 	contadorTamanhoIte(p);
 	system("pause");
 	return 0;
